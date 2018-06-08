@@ -8,9 +8,7 @@
 		<artifactId>spring-cloud-eureka-hello-demo</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.devnp</groupId>
 	<artifactId>spring-cloud-service-consumer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<name>spring-cloud-service-consumer</name>
 	<url>http://maven.apache.org</url>
